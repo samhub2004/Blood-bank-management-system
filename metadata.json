@@ -1,0 +1,5 @@
+{
+  "name": "VitalFlow Blood Bank",
+  "description": "A comprehensive blood bank management system for donors and patients to manage blood requests and inventory.",
+  "requestFramePermissions": []
+}
